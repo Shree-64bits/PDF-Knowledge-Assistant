@@ -103,8 +103,24 @@ Display Response in Gradio
 
 ## Project Architecture
 
-![Architecture](assets/architecture.png)
+```
+PDF-RAG-Chatbot/
+│
+├── Main.ipynb
+│
+├── requirements.txt
+│
+├── README.md
+│
+├── LangChain.pdf(used as a Sample Data
+│     
+└─── screenshots/
+      ├── upload.png
+      ├── question.png
+      ├── answer.png
 
+
+```
 ---
 
 ## Future Improvements
@@ -114,7 +130,6 @@ Display Response in Gradio
 - Conversation memory
 - Hybrid Search (BM25 + Dense Retrieval)
 - ChromaDB support
-- Streamlit deployment
 - Hugging Face deployment
 - Citation highlighting
 
