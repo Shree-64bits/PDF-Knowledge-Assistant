@@ -88,6 +88,7 @@ Display Response in Gradio
 
 ![Answer](Screenshots/Generated_Answer.png)
 
+<br><br>
 
 ![Answer](Screenshots/Generated_Answer2.png)
 
@@ -148,3 +149,8 @@ This project is open-source and intended for educational and learning purposes.
 **Shree Sharma**
 
 LinkedIn: *(https://www.linkedin.com/in/shree-sharma-8b879a324?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+
+---
+
+
+## ⭐ If you found this project interesting, consider giving it a star!
