@@ -74,19 +74,22 @@ Display Response in Gradio
 
 ### Upload PDF
 
-![Upload](assets/screenshot1.png)
+![Upload](Screenshots/upload.png)
 
 ---
 
 ### Ask Questions
 
-![Question](assets/screenshot2.png)
+![Question](Screenshots/Ask_Question.png)
 
 ---
 
 ### Generated Answer
 
-![Answer](assets/screenshot3.png)
+![Answer](Screenshots/Generated_Answer.png)
+
+
+![Answer](Screenshots/Generated_Answer2.png)
 
 ---
 
