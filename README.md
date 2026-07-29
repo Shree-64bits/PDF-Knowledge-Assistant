@@ -74,7 +74,7 @@ Display Response in Gradio
 
 ### Upload PDF
 
-![Upload](Screenshots/upload.png)
+![Upload](Screenshots/upload_pdf.png)
 
 ---
 
